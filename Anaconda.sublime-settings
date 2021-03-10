@@ -1,0 +1,10 @@
+{
+    "auto_formatting": true,
+    "autoformat_ignore":
+    [
+    ],
+    "pep8_ignore":
+    [
+        "E501"
+    ],
+}
